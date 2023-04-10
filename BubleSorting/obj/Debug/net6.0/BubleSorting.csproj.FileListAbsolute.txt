@@ -1,0 +1,15 @@
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\bin\Debug\net6.0\BubleSorting.exe
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\bin\Debug\net6.0\BubleSorting.deps.json
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\bin\Debug\net6.0\BubleSorting.runtimeconfig.json
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\bin\Debug\net6.0\BubleSorting.dll
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\bin\Debug\net6.0\BubleSorting.pdb
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\obj\Debug\net6.0\BubleSorting.csproj.AssemblyReference.cache
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\obj\Debug\net6.0\BubleSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\obj\Debug\net6.0\BubleSorting.AssemblyInfoInputs.cache
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\obj\Debug\net6.0\BubleSorting.AssemblyInfo.cs
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\obj\Debug\net6.0\BubleSorting.csproj.CoreCompileInputs.cache
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\obj\Debug\net6.0\BubleSorting.dll
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\obj\Debug\net6.0\refint\BubleSorting.dll
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\obj\Debug\net6.0\BubleSorting.pdb
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\obj\Debug\net6.0\BubleSorting.genruntimeconfig.cache
+C:\Users\zozdag\Desktop\BubleSorting\BubleSorting\obj\Debug\net6.0\ref\BubleSorting.dll
